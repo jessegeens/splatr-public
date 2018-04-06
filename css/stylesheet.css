@@ -1,0 +1,33 @@
+#deletebtn:hover{
+  color:red;
+}
+
+#sellbtn:hover{
+  color:green;
+}
+
+#posDiff{
+  color:green;
+}
+
+#negDiff{
+  color:red;
+}
+
+#loader{
+  background-image: url("../images/loader.gif") no-repeat center center;
+  height: 70%;
+}
+
+#removeSign {
+  color:black;
+ }
+
+.market-unit{
+  /*color: #e8c425;*/
+
+}
+
+.btn-return{
+  /*text-decoration: none;*/
+}
